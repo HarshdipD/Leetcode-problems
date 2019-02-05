@@ -1,4 +1,4 @@
-"""
+'''
 Novice solutions:
 Time-complexity: o(n2)  40ms
 
@@ -9,7 +9,7 @@ class Solution:
                 if(a+b == target):
                     result = [nums.index(a), nums.index(b)]
                     return result
-"""
+'''
 
 #Time complexity: 
 
