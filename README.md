@@ -4,7 +4,7 @@ My solutions to Leetcode problems
 ---
 
 | Problem | My Solution | Runtime | Memory Usage |
-|:---------:|:-------------:|:---------:|:--------------:|
+|---------|:-------------:|:---------:|:--------------:|
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Algorithms/two-sum/Reverse-Integer.py) | 48ms | 6.6 MB |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Algorithms/two-sum/Remove%20element.py) | 36ms | 12.4 MB |
 | [66. Plus One](https://leetcode.com/problems/plus-one) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Algorithms/two-sum/Plus%20One.py) | 36ms | 6.4 MB |
