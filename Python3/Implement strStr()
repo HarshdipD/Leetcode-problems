@@ -1,0 +1,24 @@
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        #m = re.search(needle, haystack)
+        if(needle in haystack):
+            return haystack.index(needle)
+        else:
+            return -1
+ 
+ 
+'''
+I did this question in 2 ways. This commented code is by using RegEx.
+Runtime: 88ms
+Memory: 18.3MB
+
+import re
+
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        m = re.search(needle, haystack)
+        if(m):
+            return m.start()
+        else:
+            return -1
+'''            
