@@ -5,7 +5,7 @@ My solutions to Leetcode problems
 
 | Number | Problem | My Solution | Runtime | Memory Usage |
 |:---------:|---------|:-------------:|:---------:|:--------------:|
-| 1. |[Reverse Integer](https://leetcode.com/problems/two-sum/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/two-sum.py) | 40ms | 14.2 MB |
+| 1. |[Two Sum](https://leetcode.com/problems/two-sum/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/two-sum.py) | 40ms | 14.2 MB |
 | 7. |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Reverse-Integer.py) | 48ms | 6.6 MB |
 | 11. |[Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Container%20with%20Most%20Water.py) | 60ms | 14.4 MB |
 | 27. |[Remove Element](https://leetcode.com/problems/remove-element/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Remove%20element.py) | 36ms | 12.4 MB |
