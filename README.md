@@ -15,3 +15,13 @@ My solutions to Leetcode problems
 | 125. |[Valid Palindrome](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py) | 56ms | 14.2 MB |
 | 771. |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Jewels%20and%20Stones.py) | 44ms | 13.2 MB |
 | 804. |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Unique%20Morse%20Code%20Words.py) | 40ms | 13.2 MB |
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
