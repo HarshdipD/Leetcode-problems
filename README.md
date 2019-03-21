@@ -14,3 +14,4 @@ My solutions to Leetcode problems
 | 104. |[Maximum Depth of a Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Maximum%20Depth%20of%20a%20Binary%20Tree.py) | 52ms | 15.6 MB |
 | 125. |[Valid Palindrome](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py) | 56ms | 14.2 MB |
 | 771. |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Jewels%20and%20Stones.py) | 44ms | 13.2 MB |
+| 804. |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python 3](https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Unique%20Morse%20Code%20Words.py) | 40ms | 13.2 MB |
