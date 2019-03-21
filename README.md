@@ -20,11 +20,18 @@ My solutions to Leetcode problems
   <tr>
     <td>#</td>
     <td>Problem</td>
-    <td>Python</td>
-    <td>C++</td>
+    <td colspan="3">Python</td>
+    <td colspan="3">C++</td>
   </tr>
   <tr>
     <td>1. </td>
+    <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+    <td>Solution</td>
+    <td>40 ms</td>
+    <td>14.2 MB</td>
+    <td>Solution</td>
+    <td>40 ms</td>
+    <td>14.2 MB</td>
 
   </tr>
 </table>
