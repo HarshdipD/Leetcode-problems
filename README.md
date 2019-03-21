@@ -28,6 +28,16 @@ My solutions to Leetcode problems
     <td></td>
     <td></td>
   </tr>
+   <tr>
+    <td>16. </td>
+    <td><a href="https://leetcode.com/problems/3sum-closest/">3Sum Closest</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/3Sum%20Closest">Python3</a></td>
+    <td>156 ms</td>
+    <td>13.1 MB</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>11. </td>
     <td><a href="https://leetcode.com/problems/container-with-most-water/">Container with Most Water</a></td>
