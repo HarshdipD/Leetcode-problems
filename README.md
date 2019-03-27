@@ -65,6 +65,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>100. </td>
+    <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Same%20Tree.py">Python3</a></td>
+    <td>36 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>104. </td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of a Binary Tree</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Maximum%20Depth%20of%20a%20Binary%20Tree.py">Python3</a></td>
@@ -93,14 +101,6 @@ My solutions to Leetcode problems
     <td><a href="https://leetcode.com/problems/unique-morse-code-words/">Unique Morse Code Words</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Unique%20Morse%20Code%20Words.py">Python3</a></td>
     <td>40 ms</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>100. </td>
-    <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
-    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Same%20Tree.py">Python3</a></td>
-    <td>36 ms</td>
     <td></td>
     <td></td>
   </tr>
