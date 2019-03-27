@@ -96,4 +96,12 @@ My solutions to Leetcode problems
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>100. </td>
+    <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Same%20Tree.py">Python3</a></td>
+    <td>36 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
