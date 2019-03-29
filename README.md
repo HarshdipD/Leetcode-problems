@@ -59,7 +59,7 @@ My solutions to Leetcode problems
   <tr>
   <tr>
     <td>42. </td>
-    <td a href="https://leetcode.com/problems/trapping-rain-water">Trapping Rain Water</a></td>
+    <td><a href="https://leetcode.com/problems/trapping-rain-water">Trapping Rain Water</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Trapping%20Rain%20Water.py">Python3</a></td>
     <td>52 ms</td>
     <td></td>
