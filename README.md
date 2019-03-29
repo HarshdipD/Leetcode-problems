@@ -57,6 +57,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+  <tr>
+    <td>42. </td>
+    <td a href="https://leetcode.com/problems/trapping-rain-water">Trapping Rain Water</td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Trapping%20Rain%20Water.py">Python3</a></td>
+    <td>52 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
     <td>66. </td>
     <td><a href="https://leetcode.com/problems/plus-one/">Plus One</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Plus%20One.py">Python3</a></td>
