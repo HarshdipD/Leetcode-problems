@@ -81,6 +81,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>101. </td>
+    <td><a href="https://leetcode.com/problems/symmetric-tree/">Symmetric Tree</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Symmetric%20Tree.py">Python3</a></td>
+    <td>40 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>104. </td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of a Binary Tree</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Maximum%20Depth%20of%20a%20Binary%20Tree.py">Python3</a></td>
