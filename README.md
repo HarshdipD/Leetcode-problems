@@ -97,8 +97,16 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>108. </td>
+    <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Convert Sorted Array to Binary Search Tree</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Convert%20Sorted%20%20Array%20to%20Binary%20Search%20Tree.py">Python3</a></td>
+    <td>76 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>111. </td>
-    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/">Minimum Depth of a Binary Tree</a></td>
+    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of a Binary Tree</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Minimum%20Depth%20of%20a%20Binary%20Tree.py">Python3</a></td>
     <td>56 ms</td>
     <td></td>
