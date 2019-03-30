@@ -99,8 +99,16 @@ My solutions to Leetcode problems
   <tr>
     <td>125. </td>
     <td><a href="https://leetcode.com/problems/two-sum/">Valid palindrome Number</a></td>
-    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number..py">Python3</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py">Python3</a></td>
     <td>56 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>226. </td>
+    <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Invert%20Binary%20Tree.py">Python3</a></td>
+    <td>36 ms</td>
     <td></td>
     <td></td>
   </tr>
