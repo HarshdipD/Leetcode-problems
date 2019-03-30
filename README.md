@@ -97,6 +97,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>111. </td>
+    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/">Minimum Depth of a Binary Tree</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Minimum%20Depth%20of%20a%20Binary%20Tree.py">Python3</a></td>
+    <td>56 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>125. </td>
     <td><a href="https://leetcode.com/problems/two-sum/">Valid palindrome Number</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py">Python3</a></td>
