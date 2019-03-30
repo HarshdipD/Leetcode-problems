@@ -153,4 +153,12 @@ My solutions to Leetcode problems
     <td></td>
     <td></td>
   </tr>
+  <tr>
+  <td>997.</td>
+  <td><a href="https://leetcode.com/problems/find-the-town-judge/submissions/">Find the Town Judge</a></td>
+  <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Find%20the%20Town%20Judge.py">Python3</a></td>
+  <td>104 ms</td>
+  <td></td>
+  <td></td>
+  </tr>
 </table>
