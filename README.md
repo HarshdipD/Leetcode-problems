@@ -105,6 +105,15 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+  <tr>
+    <td>112. </td>
+    <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Path%20Sum.py">Python3</a></td>
+    <td>52 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>125. </td>
     <td><a href="https://leetcode.com/problems/two-sum/">Valid palindrome Number</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py">Python3</a></td>
