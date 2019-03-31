@@ -138,6 +138,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>217. </td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Contains%20Duplicate.py">Python3</a></td>
+    <td>48 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>226. </td>
     <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Invert%20Binary%20Tree.py">Python3</a></td>
