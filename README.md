@@ -17,6 +17,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>3. </td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Longest%20substring%20without%20repeating%20characters">Python3</a></td>
+    <td>60 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>7. </td>
     <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Reverse-Integer.py">Python3</a></td>
