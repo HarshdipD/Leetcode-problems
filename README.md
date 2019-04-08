@@ -154,6 +154,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>500. </td>
+    <td><a href="https://leetcode.com/problems/keyboard-row/">Keyboard Row</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Keyboard%20Row.py">Python3</a></td>
+    <td>36 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>771. </td>
     <td><a href="https://leetcode.com/problems/jewels-and-stones/">Jewels and Stones</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Jewels%20and%20Stones.py">Python3</a></td>
