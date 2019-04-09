@@ -139,6 +139,14 @@ My solutions to Leetcode problems
   </tr>
   <tr>
     <td>217. </td>
+    <td><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Course%20Schedule.py">Python3</a></td>
+    <td>88 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>217. </td>
     <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Contains%20Duplicate.py">Python3</a></td>
     <td>48 ms</td>
