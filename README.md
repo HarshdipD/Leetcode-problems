@@ -146,6 +146,14 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
+    <td>208. </td>
+    <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Implement%20Trie.py">Python3</a></td>
+    <td>220 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>215. </td>
     <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">Kth Largest Element in an Array</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Kth%20Largest%20Element%20in%20an%20Array.py">Python3</a></td>
