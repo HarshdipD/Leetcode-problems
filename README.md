@@ -148,7 +148,7 @@ My solutions to Leetcode problems
   <tr>
     <td>215. </td>
     <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">Kth Largest Element in an Array</a></td>
-    <td><a href="  https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Kth%20Largest%20Element%20in%20an%20Array.py">Python3</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Kth%20Largest%20Element%20in%20an%20Array.py">Python3</a></td>
     <td>104 ms</td>
     <td></td>
     <td></td>
