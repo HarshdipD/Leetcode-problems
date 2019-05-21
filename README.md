@@ -65,7 +65,6 @@ My solutions to Leetcode problems
     <td></td>
   </tr>
   <tr>
-  <tr>
     <td>42. </td>
     <td><a href="https://leetcode.com/problems/trapping-rain-water">Trapping Rain Water</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Trapping%20Rain%20Water.py">Python3</a></td>
@@ -73,6 +72,15 @@ My solutions to Leetcode problems
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>53. </td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/">Maximum Subarray</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Maximum%20Subarray.py">Python3</a></td>
+    <td>44 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>66. </td>
     <td><a href="https://leetcode.com/problems/plus-one/">Plus One</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Plus%20One.py">Python3</a></td>
