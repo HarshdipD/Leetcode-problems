@@ -1,5 +1,8 @@
 # Leetcode-problems
-My solutions to Leetcode problems
+My solutions to Leetcode problems.
+### Update 5/29/19:
+I feel like an average person trying to solve Leetcode questions will only look for solutions after giving up and trying their best. Therefore, the solutions need to be detailed, so they understand what's happening. Keeping this in mind, I am going to start adding solutions with good explanation with what I am doing and why.
+<br><br>
 
 <table>
   <tr>
