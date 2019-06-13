@@ -38,7 +38,7 @@ I feel like an average person trying to solve Leetcode questions will only look 
   <tr>
     <td>9. </td>
     <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
-    <td><a href="  https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py">Python3</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py">Python3</a></td>
     <td>72 ms</td>
     <td></td>
     <td></td>
