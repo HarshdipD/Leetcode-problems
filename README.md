@@ -36,6 +36,14 @@ I feel like an average person trying to solve Leetcode questions will only look 
     <td></td>
   </tr>
   <tr>
+    <td>9. </td>
+    <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
+    <td><a href="  https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Palindrome%20Number.py">Python3</a></td>
+    <td>72 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>11. </td>
     <td><a href="https://leetcode.com/problems/container-with-most-water/">Container with Most Water</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Container%20with%20Most%20Water.py">Python3</a></td>
