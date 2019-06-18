@@ -148,6 +148,15 @@ I feel like an average person trying to solve Leetcode questions will only look 
     <td></td>
     <td></td>
   </tr>
+ 
+  <tr>
+    <td>121. </td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py">Python3</a></td>
+    <td>28 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>125. </td>
     <td><a href="https://leetcode.com/problems/two-sum/">Valid palindrome Number</a></td>
