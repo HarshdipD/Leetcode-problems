@@ -8,8 +8,8 @@ I think that a person trying to solve Leetcode questions will only look for solu
   <tr>
     <td>#</td>
     <td>Problem</td>
-    <td colspan="2" align="center">Python</td>
-    <td colspan="2" align="center">C++</td>
+    <td colspan="2" text-align="center">Python</td>
+    <td colspan="2" text-align="center">C++</td>
   </tr>
   <tr>
     <td>1. </td>
@@ -99,6 +99,14 @@ I think that a person trying to solve Leetcode questions will only look for solu
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td>70. </td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Climbing%20Stairs.py">Python3</a></td>
+    <td>32 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>100. </td>
     <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
@@ -166,6 +174,14 @@ I think that a person trying to solve Leetcode questions will only look for solu
     <td></td>
   </tr>
     <tr>
+    <td>153. </td>
+    <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Find%20Minimum%20in%20Rotated%20Sorted%20array.py">Python3</a></td>
+    <td>32 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
     <td>207. </td>
     <td><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Course%20Schedule.py">Python3</a></td>
@@ -218,6 +234,14 @@ I think that a person trying to solve Leetcode questions will only look for solu
     <td><a href="https://leetcode.com/problems/keyboard-row/">Keyboard Row</a></td>
     <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Keyboard%20Row.py">Python3</a></td>
     <td>36 ms</td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>509. </td>
+    <td><a href="https://leetcode.com/problems/fibonacci-numbe/">Fibonacci Number</a></td>
+    <td><a href="https://github.com/HarshdipD/Leetcode-problems/blob/master/Python3/Fibonacci%20Number.py">Python3</a></td>
+    <td>28 ms</td>
     <td></td>
     <td></td>
   </tr>
